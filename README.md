@@ -112,3 +112,4 @@ Everything is in `config.lua`: presets, the default preset, the character animat
 Free to use on any server, and free to edit for your own server. Don't resell it or re-upload it as your own. See `LICENSE`.
 
 Made by **KIO Labs**. Latest version: https://github.com/KioLabs/kio_thermite/releases
+Follow for more releases: https://x.com/KioZyxx
